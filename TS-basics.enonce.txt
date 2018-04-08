@@ -1,0 +1,13 @@
+Créer une interface Animal.
+
+Créer une classe Human implémentant l'interface Animal. On pourra
+établir des valeurs par défaut et des propriétés additionnelles dans 
+la classe Human.
+
+Créer deux fonctions acceptant respectivement des paramètres de type
+Animal et Human. 
+
+Instancier deux objets, respectivement de type Animal et Human, et exécuter 
+les fonctions précédentes avec ces deux objets. 
+
+Compiler ce fichier en JS, et l'exécuter dans votre navigateur. 
